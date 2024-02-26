@@ -1,2 +1,1 @@
-# redes_forms
-Exemplo HTML,, CSS e JavaScript além do Google Forms
+ https://krc1001.github.io/redes/
